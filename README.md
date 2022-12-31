@@ -40,6 +40,6 @@ def circulate():
 
 ## Result:
 
-The circulaion of the values are executed successfully
+The circulation of the values are executed successfully
 
 
