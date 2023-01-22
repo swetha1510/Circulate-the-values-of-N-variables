@@ -36,7 +36,7 @@ def circulate():
  ```
 
 ## Output:
-![](circulatenvariable.png)
+![](circulatenvariable.)
 
 
 ## Result:
