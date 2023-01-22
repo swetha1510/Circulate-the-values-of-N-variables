@@ -36,7 +36,8 @@ def circulate():
  ```
 
 ## Output:
-![](./circ.png)
+[circulatenvariable](https://user-images.githubusercontent.com/120623583/213905610-60fedfa6-9066-46dc-b430-c29e193561fc.png)
+
 
 ## Result:
 
