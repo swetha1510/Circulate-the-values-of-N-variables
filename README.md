@@ -1,11 +1,9 @@
 # Circulate-the-values-of-N-variables
 
 ## Aim:
-
 To write a python program to circulate the n variables using function concept
 
 ## Equipment’s required:
-
 PC
 Anaconda - Python 3.7
 
@@ -36,8 +34,7 @@ def circulate():
  ```
 
 ## Output:
-![](circulatenvariable.png)
-
+![circulatenvariable](https://user-images.githubusercontent.com/120623583/214613276-3e7ee269-e5bb-41f8-8e6f-74d637dc5aa3.png)
 
 ## Result:
 
